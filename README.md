@@ -4,6 +4,7 @@ A Curated list of Topic wise Theory and Questions to Get You Started On Competit
 
 Topics
 ---
+ - [Arrays](#arrays)
  - [Binary and Ternary Search](#binary-and-ternary-search)
  - [Dynamic Programming](#dynamic-programming)
  - [Flow](#flow)
@@ -14,10 +15,25 @@ Topics
  - [Matrix Exponentiation](#matrix-exponentiation)
  - [Miscellaneous](#miscellaneous)
  - [Prefix and Suffix Trees](#prefix-and-suffix-trees)
+ - [Binary Indexed Trees](#binary-indexed-trees)
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
 
-## Binary and Ternary Search
+## Arrays
+---
+ - Questions
+
+ 	- [Sweets - Array](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cc0a5f3793a8e193a604b35)
+ 	- [Prefix and Suffix](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cc0a0f74df01f024022c874)
+ 	- [Holiday Season](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cc3f1f04df01f024022c876)
+ 	- [Largest Number](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cc3f2c34df01f024022c878)
+	- [Marbles](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cc3f31f4df01f024022c87a)
+	- [Wave Array](https://kira.acadcare.com/course/cpp-competitive-prog/lecture/5cc09ff84df01f024022c872/content/5cd67eabe5d6f744d50f59b5)
+	
+
+
+
+## Binary Search and Ternary Search
 ---
 *Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non linear time.*
 
@@ -27,7 +43,7 @@ Topics
 
  	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard).
- 	- [Ternary Search](http://rendon.x10.mx/ternary-search/) - Blog Post on Ternary Search.
+ 	- [Hackerearth](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/) - Tutorial on Ternary Search.
 
  - Questions on
 
@@ -43,6 +59,7 @@ Topics
 
  	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) - Dynamic Programming from Novice to Advanced.
  	- [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming) - Tutorial on Dynamic Programming.
+ 	- [Quora](https://www.quora.com/How-can-one-start-solving-Dynamic-Programming-problems/) - Getting started with Dynamic Programming (Quora Discussion).
 
  - Questions on
 
@@ -138,10 +155,12 @@ Topics
 
  	- [zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
  	- [Quora](https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation) - Solving Dynamic Programming with Matrix Exponentiation.
+	- [Codechef](https://discuss.codechef.com/questions/49614/linear-recurrence-using-cayley-hamilton-theorem) - Solving Recurrences using Cayley Hamilton Theorem and Matrix Exponentiation
 
  - Questions on
 
  	- [A2oj](http://a2oj.com/Category.jsp?ID=32)
+	- [POWSUM on CodeChef](https://www.codechef.com/problems/POWSUMS)
 
 ## Miscellaneous
 ---
@@ -180,12 +199,27 @@ Topics
  	- [Wikipedia](https://en.wikipedia.org/wiki/Trie) - Introduction to Tries.
  	- [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Tutorial on prefix and suffix trees by Sartaj Sahni
  	- [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Suffix Trees Explained.
+	- [Geeksforgeeks](http://www.geeksforgeeks.org/trie-insert-and-search/) - Trie, Insertion and Search
+	- [Geeksforgeeks](http://www.geeksforgeeks.org/trie-delete/) - Trie, Deletion.
+
 
  - Questions on
 
  	- [Codechef](https://www.codechef.com/problems/TWSTR/)
  	- [Another problem on Codechef](https://www.codechef.com/SEPT13/problems/TMP01)
  	- [A2oj](http://a2oj.com/Category.jsp?ID=49)
+
+## Binary Indexed Trees
+---
+*A Fenwick tree or binary indexed tree is a data structure that can efficiently update elements and calculate prefix sums in a table of numbers.*
+
+ - Theory
+
+  - [Hackerearth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/) 
+  - [Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree) - Fenwick Tree (data structure)
+  - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
+ - Questions on
+  - [A2oj](https://a2oj.com/Category.jsp?ID=26)
 
 ## Segment Trees
 ---
